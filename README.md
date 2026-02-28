@@ -2,7 +2,7 @@
 
 A simple full-stack web application built using FastAPI, HTML, CSS, JavaScript, and SQLAlchemy.
 This project allows users to submit an application form and stores the data in a database. An admin endpoint is provided to view all submitted applications.
-** This is project is made for the understanding working of databases. **
+**This is project is made for the understanding working of databases.**
 
 ## 🚀 Features
 
